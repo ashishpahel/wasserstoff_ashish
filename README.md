@@ -6,8 +6,9 @@ Techstack -- React js
 
 -------------OverView of My project-------------------
 
-![image](https://user-images.githubusercontent.com/84672321/221396009-12f314b2-ef67-4b38-a8eb-cbd8ec82a869.png)
-![image](https://user-images.githubusercontent.com/84672321/221396013-c1efbb40-4b77-4302-a779-592b4aeca8ca.png)
+![image](https://user-images.githubusercontent.com/84672321/221396171-d93311da-0266-42f4-b392-776fceac0ea1.png)
+![image](https://user-images.githubusercontent.com/84672321/221396177-96c0088c-5fbc-4cd4-a3ea-7bb24ea8a494.png)
+
 
 
 
