@@ -1,3 +1,17 @@
+Title- WassersToff assignment
+
+Techstack -- React js
+
+--------------------Liberaries-------------- "react-apexcharts": "^1.4.0", "react-dom": "^18.2.0", "react-icons": "^4.7.1", "react-router": "^6.8.1", "react-scripts": "5.0.1", "react-simple-maps": "^3.0.0", "recharts": "^2.4.2", "sass": "^1.58.0", for designing the web page use---- SASS used react router dom for naviagtion the page
+
+-------------OverView of My project-------------------
+
+![image](https://user-images.githubusercontent.com/84672321/221396009-12f314b2-ef67-4b38-a8eb-cbd8ec82a869.png)
+![image](https://user-images.githubusercontent.com/84672321/221396013-c1efbb40-4b77-4302-a779-592b4aeca8ca.png)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
